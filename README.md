@@ -40,7 +40,7 @@ Pada menu Update ini user diminta untuk memasukkan nama alat musik yang ingin di
 # Menu Lihat Daftar Alat Musik
 ![image](https://github.com/user-attachments/assets/51a434af-e7f0-47d6-9f04-f4c7ddbb8311)
 
-Pada menu ini, akan ditampilkan nama Daftar Alat Musik dan harga.
+Pada menu ini, akan ditampilkan daftar alat musik dan harga.
 
 # Menu Keluar Program
 ![image](https://github.com/user-attachments/assets/94f04c4f-7b84-4d78-87b3-29ca72a57053)
